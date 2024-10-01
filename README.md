@@ -6,6 +6,10 @@ Users are prompted to enter their event dates, descriptions, and contact names. 
 
 Once submitted, the events are sorted by date, with the soonest upcoming event listed first, helping users plan ahead for celebrations and special events. 🥳
 
+## Demo Video
+
+https://github.com/user-attachments/assets/4cf55ba9-01a1-40b1-9125-d6524f7a10e4
+
 ## Screenshot
 
 ![](assets/Coffee_Calendar_Events_Scheduler_Screenshot.png)
